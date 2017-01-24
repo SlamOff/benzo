@@ -1,0 +1,16 @@
+@font-face {
+	font-family: "Agora-Bold";
+	src: url("../fonts/PF Agora Sans Pro Bold.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Agora-Light-Italic";
+	src: url("../fonts/PF Agora Sans Pro Light Italic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Agora-Light";
+	src: url("../fonts/PF Agora Sans Pro Light.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Agora-Medium";
+	src: url("../fonts/PF Agora Sans Pro Medium.ttf") format("truetype");
+}
