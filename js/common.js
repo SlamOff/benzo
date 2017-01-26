@@ -1,11 +1,10 @@
 $(document).ready(function() {
-	
-	/*
-	// ScrollTo
-	$('.navbar-collapse a').mPageScroll2id();
-	*/
-
-
+	// contact click
+	$('.adress h6').each(function(indx, el){
+		$(this).click(function(){
+			$('.adress p').slideToggle();
+		});
+	});
 	//popup
 	$('.popup').magnificPopup({
 		type: 'inline'
